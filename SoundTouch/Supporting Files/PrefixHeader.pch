@@ -1,0 +1,12 @@
+//
+//  PrefixHeader.pch
+//  SoundTouch
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+//  Created by myx on 2021/9/16.
+//
+
+//#ifdef __OBJC__
+//    #import <Foundation/Foundation.h>
+//#endif
